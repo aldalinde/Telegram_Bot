@@ -1,5 +1,7 @@
 # Telegram_Bot
 
+@entertainment_ru_bot
+
 bot.py: basic echo bot script
 
 entertain_bot: Telegram bot script for basic chat answers, russian anecdotes and movie recommendations
